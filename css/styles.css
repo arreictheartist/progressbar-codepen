@@ -1,0 +1,8 @@
+*,
+*::before,
+*::after {
+  padding: 10px;
+  margin: 7;
+  box-sizing: border-box;
+}
+
